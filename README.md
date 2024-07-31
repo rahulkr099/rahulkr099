@@ -97,8 +97,14 @@
 <h2 align="center">🗽 My Github Stats</h2>
 
 <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkr099&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+
 </br>
+</br>
+
  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkr099&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
+ 
 </br>
+</br>
+
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=rahulkr099&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 
