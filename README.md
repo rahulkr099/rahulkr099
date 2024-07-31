@@ -1,4 +1,3 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp)](https://github.com/rahulkr099)
 <h1 align="center">Hi 👋, I'm <span style="font-style:italic; color:#3cc01b ">Rahul Kumar</span></h1>
 <h3 align="center">I'm a passionate <span style="font-style:italic;color:#1b66c0">MERN</span> developer who loves coding and I'm currently working on MySkill.</h3>
 <img align="right" alt="Coding" width="400" style="border-radius:10px" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
