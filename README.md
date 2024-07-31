@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm <span style="font-style:italic; color:#3cc01b ">Rahul Kumar</span></h1>
-<h3 align="center">I'm a passionate <span style="font-style:italic;color:#1b66c0">MERN</span> developer who loves coding and I'm currently working on MySkill.</h3>
-<img align="right" alt="Coding" width="400" style="border-radius:10px" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
+<h1 align="center">Hi 👋, I'm Rahul Kumar<img align="right" alt="Coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" /></h1>
+</br>
+</br>
+</br>
+<h3 align="center">I'm a passionate MERN developer who loves coding and I'm currently working on MySkill.</h3>
+<img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr099&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr099" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkr099&theme=monokai&column=3&margin-w=15&margin-h=15" alt="rahulkr099" /></a> </p>
 
-<p align="left" > <a style="background-color:#016AD9" href="https://twitter.com/rahul_kr_dev" target="blank"><img  src="https://img.shields.io/twitter/follow/rahul_kr_dev?logo=twitter&style=for-the-badge" alt="rahul_kr_dev" /></a> </p>
+<p align="left" > <a  href="https://twitter.com/rahul_kr_dev" target="blank"><img  src="https://img.shields.io/twitter/follow/rahul_kr_dev?logo=twitter&style=for-the-badge" alt="rahul_kr_dev" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development || DSA || DevOPS || Web3**
 
