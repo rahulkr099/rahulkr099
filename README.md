@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar<img align="right" alt="Coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" /></h1>
+ <div align="center"><img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=32CD32&width=335&lines=Hi%2C+I'm+Rahul%F0%9F%91%8B;Let's+Connect!"/> </div>
+
+<img align="right" alt="Coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" />
+<!-- <h1 align="center">Hi 👋, I'm Rahul Kumar</h1> -->
+
+
 <!-- Markdown -->
 <!-- HTML -->
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -107,3 +112,6 @@
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=rahulkr099&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 </br>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
