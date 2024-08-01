@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://portfolio-website-rho-ruby.vercel.app/)
 
-- 💬 Feel free to reach out if you have any questions or want to discuss my expertise in **“Full Stack Web development.**
+- 💬 Feel free to reach out if you have any questions or want to discuss my expertise in **"Full Stack Web development".**
 
 - ⚡ Fun fact **I am curious about Tech 🙂**
 
