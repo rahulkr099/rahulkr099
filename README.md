@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar<img align="right" alt="Coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" /></h1>
-</br>
-</br>
-</br>
+<!-- Markdown -->
+<!-- HTML -->
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h3 align="center">I'm a passionate MERN developer who loves coding and I'm currently working on MySkill.</h3>
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr099&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr099" /> </p>
@@ -12,13 +12,15 @@
 
 - 🌱 I’m currently learning **MERN Stack Development || DSA || DevOPS || Web3**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-website-rho-ruby.vercel.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://portfolio-website-rho-ruby.vercel.app/)
 
 - 💬 Feel free to reach out if you have any questions or want to discuss my expertise in **“Full Stack Web development.**
 
-- 📫 How to reach me **techaffairs4@gmail.com**
-
 - ⚡ Fun fact **I am curious about Tech 🙂**
+
+### Get in Touch
+📧 You can reach me at **techaffairs4@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
+
 
 <!-- ### My Experience
 📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/). -->
@@ -95,16 +97,13 @@
 <p align="center">Made with ❤️ in India</p>
  </br>
 <h2 align="center">🗽 My Github Stats</h2>
-
+<div>
 <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkr099&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
-
 </br>
 </br>
-
  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkr099&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
- 
 </br>
 </br>
-
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=rahulkr099&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
-
+</br>
+</div>
