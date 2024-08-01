@@ -7,7 +7,7 @@
 <!-- Markdown -->
 <!-- HTML -->
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<h3 align="center">I'm a passionate MERN developer who loves coding and I'm currently working on MySkill.</h3>
+<h3 align="center">I'm a passionate MERN developer who loves coding and I'm currently working on MySkills.</h3>
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr099&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr099" /> </p>
 
