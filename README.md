@@ -114,7 +114,8 @@
   <img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=rahulkr099&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/>
 </br>
 </div>
-*Thanks for visiting my profile! Have a great day! 😄*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
+
+<h2 align="center">*Thanks for visiting my profile! Have a great day! 😄*</h2>
