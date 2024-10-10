@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I am curious about Tech 🙂**
 
 ### Get in Touch
-📧 You can reach me at **techaffairs4@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
+📧 You can reach me at **rkrsharma15@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
 
 
 <!-- ### My Experience
