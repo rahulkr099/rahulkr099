@@ -29,8 +29,8 @@
 📧 You can reach me at **rkrsharma15@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
 
 
-<!-- ### My Experience
-📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/). -->
+ ### My Experience
+📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/1S0QbVixb750hmAWU7s0H6HjSX3IIBDy1/view?usp=sharing). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
