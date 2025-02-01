@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://twitter.com/rahul_kr_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_kr_dev" height="30" width="40" /></a>
 <a href="https://codepen.io/tech-affairs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech-affairs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-kumar-1a5165287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-1a5165287" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulkr099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-1a5165287" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18211168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18211168" height="30" width="40" /></a>
 
 </p>
