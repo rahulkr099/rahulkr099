@@ -15,8 +15,7 @@
 ### 🛡️ TryHackMe Badge
 <p align="center">
   <a href="https://tryhackme.com/p/rahulkrsh" target="_blank">
-<!--    <img src="https://tryhackme-badges.s3.amazonaws.com/rahulkrsh.png" alt="Your Image Badge" /> -->
-   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4592549" style='border:none;'></iframe>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/rahulkrsh.png" alt="Your Image Badge" />
   </a>
 </p>
 
