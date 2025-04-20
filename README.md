@@ -12,6 +12,13 @@
 <h3 align="center">I'm a passionate MERN developer who loves coding and I'm currently working on MySkills.</h3>
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr099&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr099" /> </p>
+### 🛡️ TryHackMe Badge
+<p align="center">
+  <a href="https://tryhackme.com/p/rahulkrsh" target="_blank">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/rahulkrsh.png" alt="Your Image Badge" />
+  </a>
+</p>
+
 <h1>🏆 Github Trophies</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkr099&theme=monokai&column=3&margin-w=15&margin-h=15" alt="rahulkr099" /></a> </p>
 
