@@ -24,7 +24,7 @@
 
 <p align="left" > <a  href="https://twitter.com/rahul_kr_dev" target="blank"><img  src="https://img.shields.io/twitter/follow/rahul_kr_dev?logo=twitter&style=for-the-badge" alt="rahul_kr_dev" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development || DSA || DevOPS || Web3**
+- 🌱 I’m currently learning **MERN Stack Development || DSA || DevOPS**
 
 - 👨‍💻 All of my projects are available at my [PORTFOLIO](https://rahulkr099.vercel.app/)
 
@@ -37,7 +37,7 @@
 
 
  ### My Experience
-📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/1S0QbVixb750hmAWU7s0H6HjSX3IIBDy1/view?usp=sharing). 
+📄 Learn more about my professional journey by viewing my [Resume](https://drive.google.com/file/d/10mSlPv8vcblW-eeSOTnsPLGJsA2t8R0r/view?usp=sharing). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
