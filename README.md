@@ -37,7 +37,7 @@
 
 
  ### My Experience
-📄 Learn more about my professional journey by viewing my [Resume](https://drive.google.com/file/d/10mSlPv8vcblW-eeSOTnsPLGJsA2t8R0r/view?usp=sharing). 
+📄 Learn more about my professional journey by viewing my [Resume](https://drive.google.com/file/d/1CTnAtzVo1ro3rBhDy_RUuQe1IbzLwJyJ/view?usp=sharing). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
